@@ -1,8 +1,6 @@
 # AdvancedValuation
 
-Advanced Valuation seminer, lectured by Nyborg Kjell G., Prof. Dr., from University of Zurich. The main learning content includes various valuation methods and case practice.
-
-The valuation method went through in this seminer:
+Advanced Valuation seminer, lectured by Nyborg Kjell G., Prof. Dr., from University of Zurich. The main learning content includes various valuation methods and case practice, which include:
 
 - How to make a stand-alone valuation for a company in M&A deal.
 - How to value a firm in LBO deal.
