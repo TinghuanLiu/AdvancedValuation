@@ -7,7 +7,7 @@ Advanced Valuation seminer, lectured by Nyborg Kjell G., Prof. Dr., from Univers
 - How to make a paired recommendation for two trading companies in the same indusrty.
 
 <figure>
-<img src = "valuation.png" width='500' height='300' class="centerImage">
+<img src = "valuation.png" width='1000' height='300' class="centerImage">
 <figcaption> Fig.1 Foot ball chart </figcaption>
 </figure>
 
